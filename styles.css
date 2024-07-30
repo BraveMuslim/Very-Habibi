@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: rgb(8, 8, 8);
+
+}
+a {
+    display: block;
+    border: 1px solid rgb(192, 233, 139);
+    width: 300px;
+    margin: 22px auto;
+    padding: 25px 20px;
+    text-decoration: none;
+    background-color: none;
+    border-radius: 28px;
+    font-size: 21px;
+    border-width: 2px;
+    font-family: Verdana, sans-serif;
+    color: rgb(212, 248, 165);
+
+}
+
+a:hover {
+    color: rgb(0, 0, 0);
+    background-color: rgb(217, 245, 139);
+    transition: 0.1s;
+    border-color: rgb(0, 0, 0);
+  }
+
+h1{
+    
+    font-size: 36px;
+    font-family: Calibri, sans-serif;
+    color: rgb(192, 233, 139);
+    margin-bottom: 35px;
+}
