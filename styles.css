@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: rgb(8, 1, 15);
+
+}
+a {
+    display: block;
+    border: 1px solid rgb(131, 40, 216);
+    width: 300px;
+    margin: 22px auto;
+    padding: 25px 20px;
+    text-decoration: none;
+    background-color: none;
+    border-radius: 30px;
+    font-size: 21px;
+    border-width: 2px;
+    font-family: Verdana, sans-serif;
+    color: rgb(131, 40, 216);
+
+}
+
+h1{
+    
+    font-size: 36px;
+    font-family: Calibri, sans-serif;
+    color: rgb(159, 74, 238);
+    margin-bottom: 35px;
+}
